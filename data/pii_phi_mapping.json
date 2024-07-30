@@ -1,0 +1,74 @@
+{
+  "2b30c30c-a82e-472d-b0d8-2e14dc0ea8c6": {
+    "type": "PII",
+    "value": "John Doe"
+  },
+  "aec6c2bb-6173-4b5d-93cf-253a4b21df93": {
+    "type": "PHI",
+    "value": "March 15, 1985"
+  },
+  "6e760fdf-3ec0-46af-8be2-58db6f61d488": {
+    "type": "PII",
+    "value": "123-45-6789"
+  },
+  "e16230c3-336e-4913-875a-f9f533c2bc1e": {
+    "type": "PII",
+    "value": "123 Main St, Anytown, ST 12345"
+  },
+  "053933b5-2c70-462e-a352-e3d37224ee1d": {
+    "type": "PHI",
+    "value": "Severe chest pain and shortness of breath"
+  },
+  "a71b029a-c324-422b-9e79-3af18699c247": {
+    "type": "PII",
+    "value": "(555) 123-4567"
+  },
+  "d55e9dc0-ba8d-48a4-96be-ca1c25a1a827": {
+    "type": "PII",
+    "value": "555-987-6543"
+  },
+  "00d72b0b-deca-4399-9c2d-54c427cf3c4e": {
+    "type": "PII",
+    "value": "johndoe@email.com"
+  },
+  "957a32b2-26fe-48fc-b440-51d681ddafe0": {
+    "type": "PII",
+    "value": "Sarah Doe"
+  },
+  "db735540-a82c-47a7-9e0f-4776a784a637": {
+    "type": "PII",
+    "value": "(555) 246-8135"
+  },
+  "f30ed193-a167-4172-84a6-038c3a1608d6": {
+    "type": "PHI",
+    "value": "Elevated levels of troponin (15 ng/mL)"
+  },
+  "69e7ff92-9109-487a-bace-2a51dc952d66": {
+    "type": "PHI",
+    "value": "ST-segment elevation in leads V1-V4"
+  },
+  "121516b8-7640-496d-8a58-18d10a0aa795": {
+    "type": "PHI",
+    "value": "acute myocardial infarction (heart attack)"
+  },
+  "b08e81f0-5463-47c1-adca-0e9d50f68051": {
+    "type": "PII",
+    "value": "HealthFirst Insurance"
+  },
+  "d416605a-5102-4c48-8f78-949d1cd151c3": {
+    "type": "PII",
+    "value": "HF987654321"
+  },
+  "9c1f2e25-1507-40c3-bad3-bed7a59cb4d7": {
+    "type": "PII",
+    "value": "5678"
+  },
+  "2eaa93c5-79c3-4093-933a-bc677fa13e02": {
+    "type": "PHI",
+    "value": "Hypertension, Type 2 diabetes, stopped smoking two years ago"
+  },
+  "ec62460e-c623-4a9d-b34c-b904cb618288": {
+    "type": "PHI",
+    "value": "Metformin (500mg twice daily), Lisinopril (10mg once daily)"
+  }
+}
